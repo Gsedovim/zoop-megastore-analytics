@@ -1,3 +1,6 @@
+<img width="1270" height="714" alt="Screenshot_4" src="https://github.com/user-attachments/assets/bb4e09f6-cf84-4cc9-96f5-248ee7a142b8" />
+<img width="1408" height="792" alt="Screenshot_9" src="https://github.com/user-attachments/assets/74c8d34b-da72-4cc8-9949-f97605b77259" />
+
 # 📊 Zoop Megastore - Análise de Dados
 
 ## 🎯 Objetivo
